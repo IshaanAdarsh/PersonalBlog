@@ -1,0 +1,36 @@
+baseURL = 'https://IshaanAdarsh.github.io/'
+languageCode = 'en-uk'
+title = 'Blind Guys Paradise'
+theme = ["github.com/adityatelange/hugo-PaperMod"]
+
+[params]
+    author = "Ishaan Adarsh"
+    description = "Portfolio and Blog"
+
+    [[menu.main]]
+        name = "Blog"
+        weight = 1
+        url  = "posts/"
+    [[menu.main]]
+        name = "About"
+        weight = 2
+        url = "about/"
+[params.homeInfoParams]
+Title = "Welcome"
+Content = "My name is Ishaan Adarsh, I write about my tech journey and some other dumb stuff."
+
+[[params.socialIcons]]
+    name = "Github"
+    icon = "fa fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/IshaanAdarsh"
+[[params.socialIcons]]
+    name = "Instagram"
+    icon = "fa fa-instagram fa-2x"
+    weight = 1
+    url = "https://www.instagram.com/ishaan_adarsh_/"
+[[params.socialIcons]]
+    name = "Linkedin"
+    icon = "fa fa-linkedin fa-2x"
+    weight = 1
+    url = "https://www.linkedin.com/in/ishaan-adarsh-161a56222/"
