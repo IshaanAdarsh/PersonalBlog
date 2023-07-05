@@ -4,7 +4,7 @@ date: 2023-07-05T16:21:47+05:30
 draft: false
 ---
 
-I am a passionate software engineer with a strong interest in open source development. I am currently a Google Summer of Code 2023 student developer with the PostgreSQL Global Development Group. In my spare time, I enjoy playing video games, watching old irrelevant Movies, and staring into the vast nothingness.
+I am a passionate software engineer with a strong interest in open source development. I am currently a Google Summer of Code 2023 student developer with the PostgreSQL Global Development Group.
 
 ---
 ## Repos / Projects
