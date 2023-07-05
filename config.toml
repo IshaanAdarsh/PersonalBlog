@@ -1,4 +1,4 @@
-baseURL = 'https://IshaanAdarsh.github.io/'
+baseURL = 'https://ishaanadarsh.github.io'
 languageCode = 'en-uk'
 title = 'Blind Guys Paradise'
 theme = ["github.com/adityatelange/hugo-PaperMod"]
