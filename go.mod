@@ -1,4 +1,4 @@
-module github.com/timothyrenner/timothyrenner.github.io
+module github.com/IshaanAdarsh/IshaanAdarsh.github.io
 
 go 1.19
 
