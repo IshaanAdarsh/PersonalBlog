@@ -1,40 +1,32 @@
 ---
 title: "About"
-date: 2022-12-04T08:40:07-06:00
+date: 2023-07-05T16:21:47+05:30
 draft: false
 ---
 
-Machine learning engineer, data scientist, and data engineer. I enjoy making data work, whether that means collection, modeling, transformation, or deployment.
-
-Sometimes "work" is really just pointless stuff.
-I try to find ways to learn new skills by doing something dumb.
+I am a passionate software engineer with a strong interest in open source development. I am currently a Google Summer of Code 2023 student developer with the PostgreSQL Global Development Group. In my spare time, I enjoy playing video games, watching old irrelevant Movies, and staring into the vast nothingness.
 
 ---
 ## Repos / Projects
 
 Here's a sample of some dumb stuff I work on.
 
-[**Spotify Smart Playlists**](https://github.com/timothyrenner/spotify-smart-playlists) - Automated workflows for making configuration driven Spotify playlists using DVC, DuckDB, and Github Actions. I told you this stuff was dumb.
+[**Postgres-extension-tutorial**](https://github.com/IshaanAdarsh/Postgres-extension-tutorial) - An easy-to-follow tutorial with clear examples because the barrier for entry is prohibitive for new contributors.
 
-[**Movies**](https://github.com/timothyrenner/movies-app) - Letterboxd clone (ish) with Go, SQLite, DVC and Obsidian for tracking the terrible movies I watch in my own database.
+[**Today I Learned**](https://github.com/IshaanAdarsh/TIL) - A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.
 
-[**Movies Analysis**](https://github.com/timothyrenner/movies-analysis) - Full end-to-end DBT project built with DuckDB, using the SQLite database from the movies "app" as a source. Working on adding a Streamlit dashboard to it, eventually.
+[**Cryptex**](https://github.com/IshaanAdarsh/Cryptex) - A Premier Ethereum wallet-to-wallet transaction platform with a mission to empower individuals and communities to thrive.
 
-[**SVL**](https://github.com/timothyrenner/svl) - Haven't touched this one in a while, but I wanted to learn how to write compilers so I decided to make a SQL-esque language for data visualizations. It was fun but not terribly useful.
+[**ChainCharity-3.0**](https://github.com/IshaanAdarsh/ChainCharity-3.0) - A Web3 app leveraging Ethereum blockchain for project registration and obtaining funding.
 
-[**Kafka Streams Examples**](https://github.com/timothyrenner/kafka-streams-ex) - Really old repo where I taught myself Kafka Streams back when it was super new. Also includes a streaming pipeline inspired by an Onion article (seriously).
+[**Ezmail**](https://github.com/IshaanAdarsh/ezmail) - A Web app empowering students to create and utilize email templates for effective communication.
 
 ---
-## Datasets
-I maintain several pretty popular datasets on [data.world](https://data.world/timothyrenner).
-You might notice a theme.
 
+## Blogs
+- Day to Day Account of my GSoC Journey with PostgreSQL 
+    - [PostgreSQL - GSoC Journey](https://reqi3m.hashnode.dev)
 
-* 👣 &nbsp; [Bigfoot Sightings](https://data.world/timothyrenner/bfro-sightings-data) ([repo](https://github.com/timothyrenner/bfro_sightings_data))
-* 🛸 &nbsp; [UFO Sightings](https://data.world/timothyrenner/ufo-sightings) ([repo](https://github.com/timothyrenner/nuforc_sightings_data))
-* 👻 &nbsp; [Haunted Places](https://data.world/timothyrenner/haunted-places) ([repo](https://github.com/timothyrenner/shadowlands-haunted-places))
-* 🐺 &nbsp; [Dogman Sightings](https://data.world/timothyrenner/dogman-sightings) ([repo](https://github.com/timothyrenner/nadp-sightings-data))
-
-All of these were collected from publicly accessible data, either via file downloads or web scrapers of highly questionable code quality.
+- [Medium Blog](https://medium.com/@Requ13m)
 
 ---
