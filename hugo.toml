@@ -1,8 +1,7 @@
 baseURL = 'http://Blind-Guy-Paradise.org/'
 languageCode = 'en-uk'
 title = 'Blind Guys Paradise'
-theme = 'hugo-PaperMod'
-
+theme = ["github.com/adityatelange/hugo-PaperMod"]
 
 [params]
     author = "Ishaan Adarsh"
