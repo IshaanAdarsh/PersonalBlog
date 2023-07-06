@@ -1,16 +1,10 @@
 ---
-layout: "post"
 title: "Financial Markets"
-date: "2018-10-16 20:57"
-tags:
- - Finance
-full-width: true
+date: 2023-07-06T16:21:47+05:30
+draft: false
 ---
 
-This is the note series I took when studying for [Financial Markets](https://www.coursera.org/learn/financial-markets-global/home/welcome) by Prof. Robert Shiller, offered by Coursera.
-
-* TOC
-{:toc}
+Note's I took when studying for [Financial Markets](https://www.coursera.org/learn/financial-markets-global/home/welcome) by Prof. Robert Shiller, offered by Coursera.
 
 # Module 1
 
