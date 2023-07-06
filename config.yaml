@@ -17,6 +17,10 @@ menu:
       name: About
       url: /about
       weight: 30
+    - identifier: Learning
+      name: Learning
+      url: /Learning
+      weight: 30
     - identifier: search
       name: Search
       url: /search
