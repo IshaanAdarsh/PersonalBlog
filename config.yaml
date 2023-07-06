@@ -70,10 +70,22 @@ params:
       url: "https://github.com/IshaanAdarsh"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/ishaan-adarsh-161a56222/"
+    - name: "stackoverflow"
+      url: "https://stackoverflow.com/users/18317047/ishaan-adarsh"
+    - name: "mastodon"
+      url: "https://mastodon.social/@Requi3m"
     - name: "email"
       url: "mailto:ishaanad9@gmail.com"
     - name: "instagram"
       url: "https://www.instagram.com/ishaan_adarsh_/"
+    - name: "twitter"
+      url: "https://twitter.com/ishaanad9"
+    - name: "spotify"
+      url: "https://open.spotify.com/user/31ydbo4w6agefxdsxauswpkav4ba"
+    - name: "discord"
+      url: "discordapp.com/users/475269529346375693"
+    
+
     
 
   # text search
