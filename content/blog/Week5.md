@@ -4,7 +4,7 @@ date: 2023-07-18T18:26:47+05:30
 draft: false
 ---
 
-> Introduction:\
+> Introduction:\ 
 > Welcome to the latest update on my Google Summer of Code (GSoC) project, where I've been focused on Postgres extension development. Over the past two weeks, I've encountered challenges, made progress in updating tutorials and extensions, and sought help from online communities. In this blog post, I will share the key highlights of my journey during this phase.
 
 **Handling Functions and Packaging:**\
